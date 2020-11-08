@@ -16,4 +16,7 @@ RoonWeb [Electron](http://electron.atom.io) application that loads Roon Web Cont
 
 ## Getting started
 
+Discussion here at the Roon Forums.  This will be moved to it's own thread.
+https://community.roonlabs.com/t/roon-extension-roon-web-controller-v1-2-0/28412/375?u=hilton_kelly
+
 # To follow
