@@ -1,0 +1,15 @@
+{
+  "name": "RoonWeb",
+  "version": "1.0.0",
+  "description": "Load RoonWeb in an Electron window",
+  "repository": "electron/RoonWeb",
+  "main": "roonweb.js",
+  "scripts": {
+    "start": "electron roonweb.js"
+  },
+  "license": "ISC",
+  "devDependencies": {
+    "electron": "^3.0.2",
+    "electron-packager": "^15.1.0"
+  }
+}
