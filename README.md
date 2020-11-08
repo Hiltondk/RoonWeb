@@ -6,6 +6,12 @@ Supports Semi-transparent and stay ontop with included AHK script.
 Drag the window around via the album art and resize it from the edges of the window.
 Double click the Album art to go full screen and double click again to restore window.
 
+Install AHK to use the included AHK script.
+With the AHK script running you can hold left windows key and left click to make the window semi-tranparent and force it to stay ontop.
+To return the window to normal, hold left windows key and rick click on the window.
+You need to select the window with a left click first before doing the shortcut keys above or it will apply the transparency to last window with focus (or your desktop!)
+I'll fix this shortly so it only works on the RoonWeb window.
+
 <a data-flickr-embed="true" href="https://www.flickr.com/photos/133784514@N07/50578327528/in/dateposted-public/" title="roonweb"><img src="https://live.staticflickr.com/65535/50578327528_3555f2dcfb_w.jpg" width="158" height="400" alt="roonweb"></a>
 
 <a data-flickr-embed="true" href="https://www.flickr.com/photos/133784514@N07/50578327668/in/dateposted-public/" title="roonweb-ontop"><img src="https://live.staticflickr.com/65535/50578327668_deabab6af2_w.jpg" width="400" height="299" alt="roonweb-ontop"></a>
