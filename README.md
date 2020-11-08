@@ -12,6 +12,14 @@ To return the window to normal, hold left windows key and rick click on the wind
 You need to select the window with a left click first before doing the shortcut keys above or it will apply the transparency to last window with focus (or your desktop!)
 I'll fix this shortly so it only works on the RoonWeb window.
 
+You need to install the Roon Extension Manager and Roon Web Controller to use this.
+
+Roon Web Controller
+https://community.roonlabs.com/t/roon-extension-roon-web-controller-v1-2-0/28412
+
+Roon Extension Manager
+https://community.roonlabs.com/t/roon-extension-manager-v0-11-8/26632
+
 <a data-flickr-embed="true" href="https://www.flickr.com/photos/133784514@N07/50578327528/in/dateposted-public/" title="roonweb"><img src="https://live.staticflickr.com/65535/50578327528_3555f2dcfb_w.jpg" width="158" height="400" alt="roonweb"></a>
 
 <a data-flickr-embed="true" href="https://www.flickr.com/photos/133784514@N07/50578327668/in/dateposted-public/" title="roonweb-ontop"><img src="https://live.staticflickr.com/65535/50578327668_deabab6af2_w.jpg" width="400" height="299" alt="roonweb-ontop"></a>
