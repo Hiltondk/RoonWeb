@@ -45,7 +45,10 @@ https://community.roonlabs.com/t/roon-extension-manager-v0-11-8/26632
 
 ## Getting started
 
-Discussion here at the Roon Forums.  This will be moved to it's own thread.
+Initial discussion here at the Roon Forums.  
+https://community.roonlabs.com/t/roon-extension-roonweb-app-v1-0-for-roon-web-controller-v1-2/127132
+
+Current discussion in it's own thread.
 https://community.roonlabs.com/t/roon-extension-roon-web-controller-v1-2-0/28412/375?u=hilton_kelly
 
-# To follow
+# More to follow
