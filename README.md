@@ -20,6 +20,11 @@ Change the line between the single quote to whatever address and port you want t
 
 line 26: window.loadURL(‘http://localhost:8080’)
 
+You’ll need to drop an updated nowplaying.css file into your user appdata under C:\Users\<CurrentUserName>\AppData\Roaming\RoonExtensions\node_modules\roon-web-controller\public\css\nowplaying.css
+
+https://github.com/Hiltondk/RoonWeb/blob/main/RoonWeb-win32-x64/resources/Roon-Web-Controller-CSS/nowplaying.css
+
+
 Roon Web Controller
 https://community.roonlabs.com/t/roon-extension-roon-web-controller-v1-2-0/28412
 
