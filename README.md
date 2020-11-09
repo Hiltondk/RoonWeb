@@ -17,7 +17,8 @@ You need to install the Roon Extension Manager and Roon Web Controller to use th
 At the moment it’s hard coded to run on the roon core server (localhost:8080) but you can manually change the address in line 26 of Roonweb.js
 
 Change the line between the single quote to whatever address and port you want to point it at (you only need to change this if if running it on a remote PC/device to point it at your Roon Core Server)
-window.loadURL(‘http://localhost:8080’)
+
+line 26: window.loadURL(‘http://localhost:8080’)
 
 Roon Web Controller
 https://community.roonlabs.com/t/roon-extension-roon-web-controller-v1-2-0/28412
