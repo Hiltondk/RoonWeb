@@ -9,8 +9,6 @@ Double click the Album art to go full screen and double click again to restore w
 Install AHK to use the included AHK script.
 With the AHK script running you can hold left windows key and left click to make the window semi-tranparent and force it to stay ontop.
 To return the window to normal, hold left windows key and rick click on the window.
-You need to select the window with a left click first before doing the shortcut keys above or it will apply the transparency to last window with focus (or your desktop!)
-I'll fix this shortly so it only works on the RoonWeb window.
 
 You need to install the Roon Extension Manager and Roon Web Controller to use this.
 
