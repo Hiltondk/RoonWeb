@@ -62,3 +62,8 @@ Initial discussion here at the Roon Forums.
 https://community.roonlabs.com/t/roon-extension-roon-web-controller-v1-2-0/28412/375?u=hilton_kelly
 
 # More to follow
+I've created the first windows installer for RoonWeb App. You will still need to manually copy the nowplaying.css file as per the readme.  
+
+You still need to install Roon Extension Manager and Roon Web Controller and follow their relevant instructions before RoonWeb will work.
+
+https://github.com/Hiltondk/RoonWeb/releases/tag/v1.0
