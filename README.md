@@ -1,4 +1,4 @@
-# RoonWeb App for Roon Web Controller
+# RoonWeb App 1.0 for Roon Web Controller
 
 RoonWeb [Electron](http://electron.atom.io) application that loads Roon Web Controller into a frameless window with hidden titlebar.
 Supports Semi-transparent and stay ontop with included AHK script.
